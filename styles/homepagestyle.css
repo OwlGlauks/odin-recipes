@@ -6,6 +6,7 @@ body {
 .maintitle {
     font-size: 36px;
     font-variant: small-caps;
+    background-color: #47c9cea6;
 }
 
 ul {
@@ -20,4 +21,8 @@ div {
     font-size: 22px;
     font-variant: small-caps;
     text-align: left;
+}
+
+.banner {
+    background-color: #47c9cea6;
 }
