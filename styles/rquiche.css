@@ -1,4 +1,10 @@
-.bodylayout {
+#bodylayout {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ritas-quiche {
+    font-size: 36px;
+    font-variant: small-caps;
+    background-color: #47c9cea6;
 }
