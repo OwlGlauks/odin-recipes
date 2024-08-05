@@ -1,3 +1,23 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifl;
+    text-align: center;
+}
+
+.maintitle {
+    font-size: 36px;
+    font-variant: small-caps;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+div {
+    margin: 25px 25px;
+}
+.links {
+    margin-top: 10px;
+    font-size: 22px;
+    font-variant: small-caps;
+    text-align: left;
 }
