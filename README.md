@@ -1,5 +1,3 @@
 # odin-recipes
 
-This is a project inserted in The Odin Project Foundantions course.
-
-In this project I will practice my HTML.
+This is my record of the exercises from The Odin Project Foundantions course.
